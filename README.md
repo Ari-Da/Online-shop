@@ -3,4 +3,4 @@ This project was an obligatory project during my studies, where I chose to devel
 
 Sample screenshots:
 
-![Main page](screenshots/screencapture-localhost-a-store.png?raw=true "Main page")
+![Main page](screenshots/screencapture-localhost-a-store.png?raw=true width="100px" "Main page")
