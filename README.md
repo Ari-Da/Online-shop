@@ -5,7 +5,7 @@ Sample screenshots:
 
 <img src="screenshots/screencapture-localhost-a-store.png" width="500" height="370" alt="Main page" border="1">
 
-<img src="screenshots/screencapture-localhost-a-store-products-php.png" width="500" height="650" alt="All products" border="1">
+<img src="screenshots/screencapture-localhost-a-store-products-php.png" width="500" height="370" alt="All products" border="1">
 
 <img src="screenshots/screencapture-localhost-a-store-details-php.png" width="500" height="370" alt="Product sample" border="1">
 
