@@ -3,5 +3,5 @@ This project was an obligatory project during my studies, where I chose to devel
 
 Sample screenshots:
 
-<img src="screenshots/screencapture-localhost-a-store.png" width="500" height="400" alt="Main page">
+<img src="screenshots/screencapture-localhost-a-store.png" width="500" height="370" alt="Main page" style="border: 1px solid black">
 
