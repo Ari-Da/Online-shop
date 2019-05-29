@@ -5,3 +5,11 @@ Sample screenshots:
 
 <img src="screenshots/screencapture-localhost-a-store.png" width="500" height="370" alt="Main page" border="1">
 
+<img src="screenshots/screencapture-localhost-a-store-products-php" width="500" height="650" alt="Main page" border="1">
+
+<img src="screenshots/screencapture-localhost-a-store-details-php" width="500" height="370" alt="Main page" border="1">
+
+<img src="screenshots/screencapture-localhost-a-store-feedback-php" width="500" height="370" alt="Main page" border="1">
+
+<img src="screenshots/screencapture-paypal-webapps-shoppingcart" width="500" height="370" alt="Main page" border="1">
+
